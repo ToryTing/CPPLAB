@@ -1,5 +1,5 @@
-C:/Users/admin/Desktop/QT_CMAKE/build-QT_cmake-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QT_cmake_autogen/EWIEGA46WW/moc_widget.cpp: C:/Users/admin/Desktop/QT_CMAKE/QT_cmake/widget.h \
-  C:/Users/admin/Desktop/QT_CMAKE/build-QT_cmake-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QT_cmake_autogen/moc_predefs.h \
+C:/Users/bignuts/Desktop/QT_CMAKE/build-QT_cmake-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QT_cmake_autogen/EWIEGA46WW/moc_widget.cpp: C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/widget.h \
+  C:/Users/bignuts/Desktop/QT_CMAKE/build-QT_cmake-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QT_cmake_autogen/moc_predefs.h \
   C:/Qt/6.4.3/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.4.3/mingw_64/include/QtCore/qanystringview.h \
   C:/Qt/6.4.3/mingw_64/include/QtCore/qarraydata.h \
