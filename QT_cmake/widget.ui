@@ -70,7 +70,7 @@
     <string>G2O</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="calcul_Button_4">
+  <widget class="QPushButton" name="reinf_Button">
    <property name="geometry">
     <rect>
      <x>60</x>

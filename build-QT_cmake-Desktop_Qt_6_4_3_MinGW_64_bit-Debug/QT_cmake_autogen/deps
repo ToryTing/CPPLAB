@@ -1,4 +1,5 @@
 QT_cmake_autogen/timestamp: \
+	C:/Qt/6.4.3/mingw_64/include/QtCore/QString \
 	C:/Qt/6.4.3/mingw_64/include/QtCore/qalgorithms.h \
 	C:/Qt/6.4.3/mingw_64/include/QtCore/qanystringview.h \
 	C:/Qt/6.4.3/mingw_64/include/QtCore/qarraydata.h \
@@ -82,6 +83,7 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/6.4.3/mingw_64/include/QtCore/qvariant.h \
 	C:/Qt/6.4.3/mingw_64/include/QtCore/qvarlengtharray.h \
 	C:/Qt/6.4.3/mingw_64/include/QtCore/qversiontagging.h \
+	C:/Qt/6.4.3/mingw_64/include/QtGui/QPainter \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qaction.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qbitmap.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qbrush.h \
@@ -94,13 +96,16 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qimage.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qkeysequence.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qpaintdevice.h \
+	C:/Qt/6.4.3/mingw_64/include/QtGui/qpainter.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qpalette.h \
+	C:/Qt/6.4.3/mingw_64/include/QtGui/qpen.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qpixelformat.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qpixmap.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qpolygon.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qregion.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qrgb.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qrgba64.h \
+	C:/Qt/6.4.3/mingw_64/include/QtGui/qtextoption.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qtgui-config.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qtguiexports.h \
 	C:/Qt/6.4.3/mingw_64/include/QtGui/qtguiglobal.h \
@@ -246,80 +251,23 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
 	C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
 	C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCompileFeatures.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineRCCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeNinjaFindMake.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseLibraryArchitecture.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeRCCompiler.cmake.in \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeRCInformation.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystem.cmake.in \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeTestCompilerCommon.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeTestRCCompiler.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckLibraryExists.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GNU-FindBinUtils.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GNU.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/TI-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageMessage.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindThreads.cmake \
@@ -328,8 +276,6 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckCompilerFlag.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckFlagCommonConfig.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/FeatureTesting.cmake \
-	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-Determine-CXX.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake \
@@ -363,6 +309,7 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cpp_type_traits.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cxxabi_forced.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cxxabi_init_exception.h \
+	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/deque.tcc \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/enable_special_members.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/erase_if.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/exception.h \
@@ -410,6 +357,7 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algobase.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_construct.h \
+	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_deque.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_function.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_heap.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_iterator.h \
@@ -422,6 +370,7 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_pair.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_raw_storage_iter.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_relops.h \
+	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_stack.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tempbuf.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tree.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_uninitialized.h \
@@ -450,6 +399,7 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwctype \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/debug/assertions.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/debug/debug.h \
+	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/deque \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/exception \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/aligned_buffer.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/alloc_traits.h \
@@ -477,6 +427,7 @@ QT_cmake_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/glue_algorithm_defs.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/glue_memory_defs.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/glue_numeric_defs.h \
+	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stack \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stdexcept \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stdlib.h \
 	C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/streambuf \
@@ -554,7 +505,13 @@ QT_cmake_autogen/timestamp: \
 	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/CMakeLists.txt \
 	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/calculator.cpp \
 	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/calculator.h \
+	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/factory.cpp \
+	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/factory.h \
 	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/main.cpp \
+	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/operator.cpp \
+	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/operator.h \
+	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/reinf.cpp \
+	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/reinf.h \
 	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/widget.cpp \
 	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/widget.h \
 	C:/Users/bignuts/Desktop/QT_CMAKE/build-QT_cmake-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
@@ -563,5 +520,6 @@ QT_cmake_autogen/timestamp: \
 	C:/Users/bignuts/Desktop/QT_CMAKE/build-QT_cmake-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/3.24.2/CMakeSystem.cmake \
 	C:/Users/bignuts/Desktop/QT_CMAKE/build-QT_cmake-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QT_cmake_autogen/moc_predefs.h \
 	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/calculator.ui \
+	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/reinf.ui \
 	C:/Users/bignuts/Desktop/QT_CMAKE/QT_cmake/widget.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

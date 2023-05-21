@@ -20,6 +20,13 @@ set(PROJECT_SOURCES
         calculator.h
         calculator.cpp
         calculator.ui
+        factory.h
+        factory.cpp
+        operator.h
+        operator.cpp
+        reinf.h
+        reinf.cpp
+        reinf.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
